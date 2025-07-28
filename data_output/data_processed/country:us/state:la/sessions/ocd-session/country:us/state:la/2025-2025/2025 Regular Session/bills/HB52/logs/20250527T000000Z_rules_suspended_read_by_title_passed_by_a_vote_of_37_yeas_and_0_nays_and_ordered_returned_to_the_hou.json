@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Rules suspended. Read by title, passed by a vote of 37 yeas and 0 nays, and ordered returned to the House.  Motion to reconsider tabled.",
+    "date": "2025-05-27",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB52"
+}

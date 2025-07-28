@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House conferees appointed: McFarland, Emerson, and Chenevert.",
+    "date": "2025-06-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB238"
+}

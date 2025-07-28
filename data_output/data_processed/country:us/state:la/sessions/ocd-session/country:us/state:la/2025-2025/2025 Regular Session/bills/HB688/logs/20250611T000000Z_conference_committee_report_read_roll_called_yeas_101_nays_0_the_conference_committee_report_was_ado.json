@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference Committee Report read, roll called, yeas 101, nays 0. The Conference Committee Report was adopted.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB688"
+}

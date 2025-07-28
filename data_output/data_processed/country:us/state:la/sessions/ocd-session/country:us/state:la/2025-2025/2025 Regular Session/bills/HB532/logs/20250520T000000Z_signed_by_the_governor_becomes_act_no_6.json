@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Signed by the Governor. Becomes Act No. 6.",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB532"
+}

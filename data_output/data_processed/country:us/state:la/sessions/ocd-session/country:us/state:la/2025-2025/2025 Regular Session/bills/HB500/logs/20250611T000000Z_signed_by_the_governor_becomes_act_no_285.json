@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Signed by the Governor. Becomes Act No. 285.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB500"
+}

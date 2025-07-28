@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title and concurred in by a vote of 38 yeas and 0 nays. Ordered returned to the House.",
+    "date": "2025-04-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR28"
+}

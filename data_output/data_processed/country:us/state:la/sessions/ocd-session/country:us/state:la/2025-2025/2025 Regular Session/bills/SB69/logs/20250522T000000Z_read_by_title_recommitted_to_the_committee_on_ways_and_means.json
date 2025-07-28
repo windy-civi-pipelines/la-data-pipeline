@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title, recommitted to the Committee on Ways and Means.",
+    "date": "2025-05-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB69"
+}

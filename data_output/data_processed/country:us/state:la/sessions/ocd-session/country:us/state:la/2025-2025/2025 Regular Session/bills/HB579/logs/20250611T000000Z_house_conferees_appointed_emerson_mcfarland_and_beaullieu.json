@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House conferees appointed: Emerson, McFarland, and Beaullieu.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB579"
+}

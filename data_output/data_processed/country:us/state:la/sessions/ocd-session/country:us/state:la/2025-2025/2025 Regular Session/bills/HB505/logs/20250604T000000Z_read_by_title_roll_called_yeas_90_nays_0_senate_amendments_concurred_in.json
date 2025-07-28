@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title, roll called, yeas 90, nays 0, Senate amendments concurred in.",
+    "date": "2025-06-04",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB505"
+}

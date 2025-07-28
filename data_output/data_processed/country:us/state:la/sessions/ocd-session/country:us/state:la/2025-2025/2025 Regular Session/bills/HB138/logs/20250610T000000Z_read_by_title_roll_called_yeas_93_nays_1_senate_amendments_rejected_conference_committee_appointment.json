@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title, roll called, yeas 93, nays 1, Senate amendments rejected, conference committee appointment pending.",
+    "date": "2025-06-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB138"
+}

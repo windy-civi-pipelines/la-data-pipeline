@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read by title, under the rules, referred to the Committee on Appropriations.",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB463"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Sent to the Governor for executive approval.",
+    "date": "2025-06-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB96"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read third time by title, amended, roll called on final passage, yeas 21, nays 72. Failed to pass.",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB608"
+}

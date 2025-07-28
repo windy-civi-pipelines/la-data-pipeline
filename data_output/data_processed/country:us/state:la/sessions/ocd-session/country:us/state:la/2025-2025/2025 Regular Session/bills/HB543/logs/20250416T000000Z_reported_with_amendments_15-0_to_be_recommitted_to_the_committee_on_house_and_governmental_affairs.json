@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported with amendments (15-0). To be recommitted to the Committee on House and Governmental Affairs.",
+    "date": "2025-04-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB543"
+}

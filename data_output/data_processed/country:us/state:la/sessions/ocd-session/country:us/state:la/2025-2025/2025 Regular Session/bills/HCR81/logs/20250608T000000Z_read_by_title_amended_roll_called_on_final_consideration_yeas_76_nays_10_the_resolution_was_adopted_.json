@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read by title, amended, roll called on final consideration, yeas 76, nays 10. The resolution was adopted and ordered to the Senate.",
+    "date": "2025-06-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR81"
+}

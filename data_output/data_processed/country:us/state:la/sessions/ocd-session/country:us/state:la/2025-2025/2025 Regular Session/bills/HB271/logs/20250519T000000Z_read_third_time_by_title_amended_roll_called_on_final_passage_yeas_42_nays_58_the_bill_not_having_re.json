@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read third time by title, amended, roll called on final passage, yeas 42, nays 58. The bill, not having received two-thirds vote of the elected members, failed to pass.",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB271"
+}

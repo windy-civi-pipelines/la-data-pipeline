@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported with amendments (9-5) with recommendation to recommit to the Committee on Labor and Industrial Relations.",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB338"
+}

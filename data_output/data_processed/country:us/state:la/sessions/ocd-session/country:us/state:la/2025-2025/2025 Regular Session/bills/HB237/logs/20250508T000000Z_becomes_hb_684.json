@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Becomes HB 684.",
+    "date": "2025-05-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB237"
+}

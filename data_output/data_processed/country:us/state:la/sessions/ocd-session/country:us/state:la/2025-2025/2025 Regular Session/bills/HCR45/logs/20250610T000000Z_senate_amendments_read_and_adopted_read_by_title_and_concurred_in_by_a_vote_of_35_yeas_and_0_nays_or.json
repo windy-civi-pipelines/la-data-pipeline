@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate amendments read and adopted.  Read by title and concurred in by a vote of 35 yeas and 0 nays.  Ordered returned to the House.",
+    "date": "2025-06-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR45"
+}

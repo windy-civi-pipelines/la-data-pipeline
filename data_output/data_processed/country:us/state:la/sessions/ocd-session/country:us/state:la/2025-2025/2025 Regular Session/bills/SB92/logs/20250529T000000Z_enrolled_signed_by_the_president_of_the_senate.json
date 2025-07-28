@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled.  Signed by the President of the Senate.",
+    "date": "2025-05-29",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB92"
+}

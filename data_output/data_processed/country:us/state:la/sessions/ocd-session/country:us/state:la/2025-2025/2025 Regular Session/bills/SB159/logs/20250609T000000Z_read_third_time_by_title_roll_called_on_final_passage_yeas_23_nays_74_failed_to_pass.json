@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read third time by title, roll called on final passage, yeas 23, nays 74. Failed to pass.",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB159"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced in the Senate; read by title.  Rules suspended.  Read second time and referred to the Committee on Transportation, Highways and Public Works.",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB11"
+}

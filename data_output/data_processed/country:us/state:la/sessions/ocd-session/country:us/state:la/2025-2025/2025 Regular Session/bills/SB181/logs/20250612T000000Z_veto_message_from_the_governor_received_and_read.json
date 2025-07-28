@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Veto message from the Governor received and read.",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB181"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read by title and adopted by a vote of 34 yeas and 0 nays.  Ordered sent to the House.",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR50"
+}

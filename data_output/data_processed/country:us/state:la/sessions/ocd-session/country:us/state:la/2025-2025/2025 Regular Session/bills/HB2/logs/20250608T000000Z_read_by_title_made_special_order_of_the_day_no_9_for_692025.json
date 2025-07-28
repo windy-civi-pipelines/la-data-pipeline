@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title; made Special Order of the Day No. 9 for 6/9/2025.",
+    "date": "2025-06-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2"
+}

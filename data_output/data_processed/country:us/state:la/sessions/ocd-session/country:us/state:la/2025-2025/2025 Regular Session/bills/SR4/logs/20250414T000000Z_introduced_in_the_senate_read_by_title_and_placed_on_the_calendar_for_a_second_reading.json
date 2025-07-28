@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Introduced in the Senate.  Read by title and placed on the Calendar for a second reading.",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SR4"
+}

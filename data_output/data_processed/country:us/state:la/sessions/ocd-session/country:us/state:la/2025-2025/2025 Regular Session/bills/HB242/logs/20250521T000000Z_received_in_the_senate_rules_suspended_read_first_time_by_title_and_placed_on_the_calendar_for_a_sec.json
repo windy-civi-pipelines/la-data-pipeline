@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Received in the Senate.  Rules suspended.  Read first time by title and placed on the Calendar for a second reading.",
+    "date": "2025-05-21",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-1"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB242"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House conferees appointed: Chenevert, Miller, and Spell.",
+    "date": "2025-06-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB399"
+}

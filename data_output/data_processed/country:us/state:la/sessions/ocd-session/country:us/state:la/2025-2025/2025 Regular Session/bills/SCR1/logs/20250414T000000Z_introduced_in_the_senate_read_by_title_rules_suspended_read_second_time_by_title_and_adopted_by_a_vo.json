@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Introduced in the Senate; read by title.   Rules suspended.  Read second time by title and adopted by a vote of 33 yeas and 0 nays.  Ordered sent to the House.",
+    "date": "2025-04-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage",
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR1"
+}

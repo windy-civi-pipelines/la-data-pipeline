@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Received on 6/3/2025.",
+    "date": "2025-06-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCSR1"
+}

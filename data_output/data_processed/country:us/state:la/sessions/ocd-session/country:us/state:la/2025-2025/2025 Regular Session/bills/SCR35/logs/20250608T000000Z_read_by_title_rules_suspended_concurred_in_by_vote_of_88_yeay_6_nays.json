@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title, rules suspended, concurred in by vote of 88 yeay, 6 nays.",
+    "date": "2025-06-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR35"
+}

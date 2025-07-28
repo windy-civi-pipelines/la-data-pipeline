@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title, returned to the calendar.",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB495"
+}

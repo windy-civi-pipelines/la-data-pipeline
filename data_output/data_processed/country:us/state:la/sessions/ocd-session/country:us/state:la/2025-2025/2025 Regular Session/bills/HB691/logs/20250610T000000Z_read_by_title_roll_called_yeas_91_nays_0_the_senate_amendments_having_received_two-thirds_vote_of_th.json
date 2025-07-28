@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title, roll called, yeas 91, nays 0. The Senate amendments, having received two-thirds vote of the elected members, were concurred in.",
+    "date": "2025-06-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB691"
+}

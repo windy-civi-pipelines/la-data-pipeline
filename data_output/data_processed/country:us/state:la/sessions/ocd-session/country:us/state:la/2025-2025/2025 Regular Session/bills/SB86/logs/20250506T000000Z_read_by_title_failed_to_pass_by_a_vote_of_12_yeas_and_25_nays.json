@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title. Failed to pass by a vote of 12 yeas and 25 nays.",
+    "date": "2025-05-06",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB86"
+}

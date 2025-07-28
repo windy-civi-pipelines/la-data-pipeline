@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title.  Recommitted to the  Committee on Education.",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB371"
+}

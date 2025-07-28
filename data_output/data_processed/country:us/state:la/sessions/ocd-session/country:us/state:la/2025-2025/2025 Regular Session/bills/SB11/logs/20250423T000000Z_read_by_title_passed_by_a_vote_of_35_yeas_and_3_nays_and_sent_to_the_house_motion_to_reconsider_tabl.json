@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read by title, passed by a vote of 35 yeas and 3 nays, and sent to the House.  Motion to reconsider tabled.",
+    "date": "2025-04-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB11"
+}

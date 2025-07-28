@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference Commmittee Report read, roll called, yeas 24, nays 66. The Conference Committee Report failed to be adopted.",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB113"
+}

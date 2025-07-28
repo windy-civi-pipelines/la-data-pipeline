@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference Committee Report read, roll called, yeas 96, nays 0. Having received two-thirds vote of the elected members, the Conference Committee Report was adopted.",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB366"
+}

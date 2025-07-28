@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate floor amendments read and adopted.  Read by title and passed by a vote of 31 yeas and 6 nays; ordered reengrossed and sent to the House.  Motion to reconsider tabled.",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB192"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate floor amendments read and adopted.  Read by title, passed by a vote of 27 yeas and 12 nays, and ordered returned to the House.  Motion to reconsider tabled.",
+    "date": "2025-06-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB293"
+}

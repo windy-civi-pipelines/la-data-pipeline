@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read second time by title and referred to the Committee on Finance.",
+    "date": "2025-05-20",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR2"
+}

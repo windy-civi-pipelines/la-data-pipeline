@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Made Special Order of the day No. 5 for 05/15/2025.",
+    "date": "2025-05-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB461"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Becomes Act No. 101 without the Governor's signature.",
+    "date": "2025-06-08",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB75"
+}

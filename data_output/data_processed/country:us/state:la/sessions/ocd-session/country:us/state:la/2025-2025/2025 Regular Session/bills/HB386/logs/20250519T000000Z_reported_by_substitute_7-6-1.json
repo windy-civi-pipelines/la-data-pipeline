@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reported by substitute (7-6-1).",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB386"
+}

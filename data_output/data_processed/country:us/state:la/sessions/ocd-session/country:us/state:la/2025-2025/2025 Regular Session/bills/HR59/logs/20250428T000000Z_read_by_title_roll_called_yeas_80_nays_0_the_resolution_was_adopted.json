@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title, roll called, yeas 80, nays 0. The resolution was adopted.",
+    "date": "2025-04-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR59"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read third time by title, amended, roll called on final passage, yeas 88, nays 11. The bill, having received two-thirds vote of the elected members, was finally passed, title adopted, ordered to the Senate.",
+    "date": "2025-05-19",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB507"
+}

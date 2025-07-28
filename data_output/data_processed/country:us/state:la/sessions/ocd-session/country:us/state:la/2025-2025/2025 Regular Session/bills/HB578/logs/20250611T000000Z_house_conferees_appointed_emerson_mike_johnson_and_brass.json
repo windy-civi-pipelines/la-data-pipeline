@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House conferees appointed: Emerson, Mike Johnson, and Brass.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB578"
+}

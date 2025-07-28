@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled.  Signed by the President of the Senate on 6/13/2025.",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB26"
+}

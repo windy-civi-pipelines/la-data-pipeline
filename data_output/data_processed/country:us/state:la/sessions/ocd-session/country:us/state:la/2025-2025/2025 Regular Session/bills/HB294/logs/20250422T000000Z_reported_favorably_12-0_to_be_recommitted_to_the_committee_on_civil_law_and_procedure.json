@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported favorably (12-0). To be recommitted to the Committee on Civil Law and Procedure.",
+    "date": "2025-04-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB294"
+}

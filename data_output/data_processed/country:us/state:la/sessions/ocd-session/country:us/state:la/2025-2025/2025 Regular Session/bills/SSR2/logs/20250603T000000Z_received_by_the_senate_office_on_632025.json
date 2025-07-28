@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Received by the Senate Office on 6/3/2025.",
+    "date": "2025-06-03",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SSR2"
+}

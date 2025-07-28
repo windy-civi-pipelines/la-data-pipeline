@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House conferees appointed: Miller, Crews, and Stagni.",
+    "date": "2025-06-10",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB26"
+}

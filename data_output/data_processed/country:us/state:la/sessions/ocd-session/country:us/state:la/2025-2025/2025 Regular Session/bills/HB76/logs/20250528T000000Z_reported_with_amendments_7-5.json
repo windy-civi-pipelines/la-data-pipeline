@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported with amendments (7-5).",
+    "date": "2025-05-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB76"
+}

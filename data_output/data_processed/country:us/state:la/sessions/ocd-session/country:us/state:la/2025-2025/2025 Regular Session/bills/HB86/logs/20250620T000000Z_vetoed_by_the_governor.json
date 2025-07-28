@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed by the Governor.",
+    "date": "2025-06-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB86"
+}

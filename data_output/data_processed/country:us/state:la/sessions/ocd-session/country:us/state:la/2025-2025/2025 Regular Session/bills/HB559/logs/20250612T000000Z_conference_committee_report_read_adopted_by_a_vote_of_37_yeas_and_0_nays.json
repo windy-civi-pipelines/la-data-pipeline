@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference Committee Report read; adopted by a vote of 37 yeas and 0 nays.",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB559"
+}

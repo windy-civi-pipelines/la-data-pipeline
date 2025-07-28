@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate floor amendments read and adopted.  Read by title; failed to pass by a vote of 7 yeas and 30 nays.",
+    "date": "2025-06-02",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB513"
+}

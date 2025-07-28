@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Conference Committee membership changed: Mizell vice Talbot.",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB578"
+}

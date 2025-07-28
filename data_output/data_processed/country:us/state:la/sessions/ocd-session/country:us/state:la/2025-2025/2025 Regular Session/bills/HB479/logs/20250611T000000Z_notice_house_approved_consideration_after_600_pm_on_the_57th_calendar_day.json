@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Notice House approved consideration after 6:00 p.m. on the 57th calendar day.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB479"
+}

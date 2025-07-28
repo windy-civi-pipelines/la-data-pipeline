@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Read second time by title and referred to the Committee on Education.",
+    "date": "2025-05-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR37"
+}

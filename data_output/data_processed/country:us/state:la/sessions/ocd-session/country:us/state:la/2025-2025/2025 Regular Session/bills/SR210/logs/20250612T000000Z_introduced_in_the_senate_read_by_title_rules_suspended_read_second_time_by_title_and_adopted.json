@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Introduced in the Senate; read by title.  Rules suspended.  Read second time by title and adopted.",
+    "date": "2025-06-12",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SR210"
+}

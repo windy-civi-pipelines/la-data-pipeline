@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Becomes Act No. 218",
+    "date": "2025-06-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB25"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled and signed by the Speaker of the House.",
+    "date": "2025-06-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB462"
+}

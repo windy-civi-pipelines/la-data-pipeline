@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Discharged from the Committee on Health and Welfare.",
+    "date": "2025-06-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR241"
+}

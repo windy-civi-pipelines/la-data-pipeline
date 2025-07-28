@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Scheduled for floor debate on 06/04/2025.",
+    "date": "2025-06-03",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB223"
+}

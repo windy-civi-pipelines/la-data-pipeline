@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Notice Senate approved consideration after the 57th calendar day.",
+    "date": "2025-06-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB486"
+}

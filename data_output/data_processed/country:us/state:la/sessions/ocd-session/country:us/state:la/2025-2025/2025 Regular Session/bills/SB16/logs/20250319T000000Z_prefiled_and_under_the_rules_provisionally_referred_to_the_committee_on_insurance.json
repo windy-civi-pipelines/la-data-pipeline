@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Prefiled and under the rules provisionally referred to the Committee on Insurance.",
+    "date": "2025-03-19",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "filing",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB16"
+}

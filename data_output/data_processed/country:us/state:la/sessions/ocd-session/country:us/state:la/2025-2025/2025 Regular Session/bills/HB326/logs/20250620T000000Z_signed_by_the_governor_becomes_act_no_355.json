@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Signed by the Governor. Becomes Act No. 355.",
+    "date": "2025-06-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law",
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB326"
+}
