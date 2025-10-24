@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Read by title, rules suspended, passed to 3rd reading.",
+    "date": "2025-10-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "reading-3"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCR3"
+}

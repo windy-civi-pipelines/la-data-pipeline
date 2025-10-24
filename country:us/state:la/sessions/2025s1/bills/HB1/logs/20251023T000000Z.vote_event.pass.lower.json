@@ -1,0 +1,665 @@
+{
+  "identifier": "",
+  "motion_text": "HOUSE AND GOVERNMENT (#3)",
+  "motion_classification": [],
+  "start_date": "2025-10-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2025s1",
+  "bill": "d148bada-b12f-11f0-833e-e6c66497b005",
+  "bill_action": null,
+  "bill_identifier": "HB1",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Mr. Speaker",
+      "voter_id": "~{\"name\": \"Mr. Speaker\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dewitt",
+      "voter_id": "~{\"name\": \"Dewitt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McFarland",
+      "voter_id": "~{\"name\": \"McFarland\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Adams",
+      "voter_id": "~{\"name\": \"Adams\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Dickerson",
+      "voter_id": "~{\"name\": \"Dickerson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McMahen",
+      "voter_id": "~{\"name\": \"McMahen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Amedee",
+      "voter_id": "~{\"name\": \"Amedee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Domangue",
+      "voter_id": "~{\"name\": \"Domangue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McMakin",
+      "voter_id": "~{\"name\": \"McMakin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bacala",
+      "voter_id": "~{\"name\": \"Bacala\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Echols",
+      "voter_id": "~{\"name\": \"Echols\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Melerine",
+      "voter_id": "~{\"name\": \"Melerine\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bagley",
+      "voter_id": "~{\"name\": \"Bagley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Edmonston",
+      "voter_id": "~{\"name\": \"Edmonston\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Muscarello",
+      "voter_id": "~{\"name\": \"Muscarello\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bamburg",
+      "voter_id": "~{\"name\": \"Bamburg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Egan",
+      "voter_id": "~{\"name\": \"Egan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Orgeron",
+      "voter_id": "~{\"name\": \"Orgeron\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bayham",
+      "voter_id": "~{\"name\": \"Bayham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Emerson",
+      "voter_id": "~{\"name\": \"Emerson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Owen",
+      "voter_id": "~{\"name\": \"Owen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Beaullieu",
+      "voter_id": "~{\"name\": \"Beaullieu\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Firment",
+      "voter_id": "~{\"name\": \"Firment\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Riser",
+      "voter_id": "~{\"name\": \"Riser\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Berault",
+      "voter_id": "~{\"name\": \"Berault\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fontenot",
+      "voter_id": "~{\"name\": \"Fontenot\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Romero",
+      "voter_id": "~{\"name\": \"Romero\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Billings",
+      "voter_id": "~{\"name\": \"Billings\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Freiberg",
+      "voter_id": "~{\"name\": \"Freiberg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schamerhorn",
+      "voter_id": "~{\"name\": \"Schamerhorn\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bourriaque",
+      "voter_id": "~{\"name\": \"Bourriaque\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gadberry",
+      "voter_id": "~{\"name\": \"Gadberry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Schlegel",
+      "voter_id": "~{\"name\": \"Schlegel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Boyer",
+      "voter_id": "~{\"name\": \"Boyer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Galle",
+      "voter_id": "~{\"name\": \"Galle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Spell",
+      "voter_id": "~{\"name\": \"Spell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Braud",
+      "voter_id": "~{\"name\": \"Braud\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Geymann",
+      "voter_id": "~{\"name\": \"Geymann\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "St. Blanc",
+      "voter_id": "~{\"name\": \"St. Blanc\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Brown",
+      "voter_id": "~{\"name\": \"Brown\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Glorioso",
+      "voter_id": "~{\"name\": \"Glorioso\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stagni",
+      "voter_id": "~{\"name\": \"Stagni\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Butler",
+      "voter_id": "~{\"name\": \"Butler\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hebert",
+      "voter_id": "~{\"name\": \"Hebert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tarver",
+      "voter_id": "~{\"name\": \"Tarver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carlson",
+      "voter_id": "~{\"name\": \"Carlson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Henry",
+      "voter_id": "~{\"name\": \"Henry\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thomas",
+      "voter_id": "~{\"name\": \"Thomas\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carrier",
+      "voter_id": "~{\"name\": \"Carrier\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hilferty",
+      "voter_id": "~{\"name\": \"Hilferty\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Thompson",
+      "voter_id": "~{\"name\": \"Thompson\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carter, R.",
+      "voter_id": "~{\"name\": \"Carter, R.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Horton",
+      "voter_id": "~{\"name\": \"Horton\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner",
+      "voter_id": "~{\"name\": \"Turner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Carver",
+      "voter_id": "~{\"name\": \"Carver\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Illg",
+      "voter_id": "~{\"name\": \"Illg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ventrella",
+      "voter_id": "~{\"name\": \"Ventrella\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chenevert",
+      "voter_id": "~{\"name\": \"Chenevert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, M.",
+      "voter_id": "~{\"name\": \"Johnson, M.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Villio",
+      "voter_id": "~{\"name\": \"Villio\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Coates",
+      "voter_id": "~{\"name\": \"Coates\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kerner",
+      "voter_id": "~{\"name\": \"Kerner\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilder",
+      "voter_id": "~{\"name\": \"Wilder\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cox",
+      "voter_id": "~{\"name\": \"Cox\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LaCombe",
+      "voter_id": "~{\"name\": \"LaCombe\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wiley",
+      "voter_id": "~{\"name\": \"Wiley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crews",
+      "voter_id": "~{\"name\": \"Crews\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Landry, J.",
+      "voter_id": "~{\"name\": \"Landry, J.\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wright",
+      "voter_id": "~{\"name\": \"Wright\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis",
+      "voter_id": "~{\"name\": \"Davis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mack",
+      "voter_id": "~{\"name\": \"Mack\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wyble",
+      "voter_id": "~{\"name\": \"Wyble\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deshotel",
+      "voter_id": "~{\"name\": \"Deshotel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McCormick",
+      "voter_id": "~{\"name\": \"McCormick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Zeringue",
+      "voter_id": "~{\"name\": \"Zeringue\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Boyd",
+      "voter_id": "~{\"name\": \"Boyd\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jordan",
+      "voter_id": "~{\"name\": \"Jordan\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Moore",
+      "voter_id": "~{\"name\": \"Moore\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Brass",
+      "voter_id": "~{\"name\": \"Brass\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Knox",
+      "voter_id": "~{\"name\": \"Knox\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Newell",
+      "voter_id": "~{\"name\": \"Newell\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Bryant",
+      "voter_id": "~{\"name\": \"Bryant\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "LaFleur",
+      "voter_id": "~{\"name\": \"LaFleur\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Phelps",
+      "voter_id": "~{\"name\": \"Phelps\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Carpenter",
+      "voter_id": "~{\"name\": \"Carpenter\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Landry, M.",
+      "voter_id": "~{\"name\": \"Landry, M.\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Taylor",
+      "voter_id": "~{\"name\": \"Taylor\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Chassion",
+      "voter_id": "~{\"name\": \"Chassion\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Landry, T.",
+      "voter_id": "~{\"name\": \"Landry, T.\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Walters",
+      "voter_id": "~{\"name\": \"Walters\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Fisher",
+      "voter_id": "~{\"name\": \"Fisher\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Larvadain",
+      "voter_id": "~{\"name\": \"Larvadain\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Willard",
+      "voter_id": "~{\"name\": \"Willard\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Green",
+      "voter_id": "~{\"name\": \"Green\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Lyons",
+      "voter_id": "~{\"name\": \"Lyons\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Young",
+      "voter_id": "~{\"name\": \"Young\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hughes",
+      "voter_id": "~{\"name\": \"Hughes\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Marcelle",
+      "voter_id": "~{\"name\": \"Marcelle\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Johnson, T.",
+      "voter_id": "~{\"name\": \"Johnson, T.\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Mena",
+      "voter_id": "~{\"name\": \"Mena\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Carter, W.",
+      "voter_id": "~{\"name\": \"Carter, W.\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Freeman",
+      "voter_id": "~{\"name\": \"Freeman\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Miller",
+      "voter_id": "~{\"name\": \"Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Farnum",
+      "voter_id": "~{\"name\": \"Farnum\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Jackson",
+      "voter_id": "~{\"name\": \"Jackson\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 75
+    },
+    {
+      "option": "no",
+      "value": 25
+    },
+    {
+      "option": "other",
+      "value": 5
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1431570",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

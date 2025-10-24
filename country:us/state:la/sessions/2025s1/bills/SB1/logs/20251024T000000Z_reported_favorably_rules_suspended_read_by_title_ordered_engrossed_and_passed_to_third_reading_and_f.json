@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Reported favorably. Rules suspended. Read by title; ordered engrossed and passed to third reading and final passage.",
+    "date": "2025-10-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB1"
+}

@@ -1,0 +1,263 @@
+{
+  "identifier": "",
+  "motion_text": "SUSPEND THE RULES (#2)",
+  "motion_classification": [],
+  "start_date": "2025-10-23",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2025s1",
+  "bill": "d0f6ac90-b12f-11f0-833e-e6c66497b005",
+  "bill_action": null,
+  "bill_identifier": "SB1",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Mr. President",
+      "voter_id": "~{\"name\": \"Mr. President\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hensgens",
+      "voter_id": "~{\"name\": \"Hensgens\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Myers",
+      "voter_id": "~{\"name\": \"Myers\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Abraham",
+      "voter_id": "~{\"name\": \"Abraham\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hodges",
+      "voter_id": "~{\"name\": \"Hodges\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Owen",
+      "voter_id": "~{\"name\": \"Owen\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Allain",
+      "voter_id": "~{\"name\": \"Allain\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kleinpeter",
+      "voter_id": "~{\"name\": \"Kleinpeter\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Pressly",
+      "voter_id": "~{\"name\": \"Pressly\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bass",
+      "voter_id": "~{\"name\": \"Bass\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lambert",
+      "voter_id": "~{\"name\": \"Lambert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reese",
+      "voter_id": "~{\"name\": \"Reese\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cathey",
+      "voter_id": "~{\"name\": \"Cathey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McMath",
+      "voter_id": "~{\"name\": \"McMath\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Seabaugh",
+      "voter_id": "~{\"name\": \"Seabaugh\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cloud",
+      "voter_id": "~{\"name\": \"Cloud\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miguez",
+      "voter_id": "~{\"name\": \"Miguez\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stine",
+      "voter_id": "~{\"name\": \"Stine\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Edmonds",
+      "voter_id": "~{\"name\": \"Edmonds\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Miller",
+      "voter_id": "~{\"name\": \"Miller\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Talbot",
+      "voter_id": "~{\"name\": \"Talbot\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fesi",
+      "voter_id": "~{\"name\": \"Fesi\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mizell",
+      "voter_id": "~{\"name\": \"Mizell\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wheat",
+      "voter_id": "~{\"name\": \"Wheat\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Foil",
+      "voter_id": "~{\"name\": \"Foil\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morris",
+      "voter_id": "~{\"name\": \"Morris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Womack",
+      "voter_id": "~{\"name\": \"Womack\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Barrow",
+      "voter_id": "~{\"name\": \"Barrow\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Harris",
+      "voter_id": "~{\"name\": \"Harris\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Price",
+      "voter_id": "~{\"name\": \"Price\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Boudreaux",
+      "voter_id": "~{\"name\": \"Boudreaux\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jackson-Andrews",
+      "voter_id": "~{\"name\": \"Jackson-Andrews\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Selders",
+      "voter_id": "~{\"name\": \"Selders\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Carter",
+      "voter_id": "~{\"name\": \"Carter\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Jenkins",
+      "voter_id": "~{\"name\": \"Jenkins\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Duplessis",
+      "voter_id": "~{\"name\": \"Duplessis\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Luneau",
+      "voter_id": "~{\"name\": \"Luneau\"}",
+      "note": ""
+    },
+    {
+      "option": "other",
+      "voter_name": "Connick",
+      "voter_id": "~{\"name\": \"Connick\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 27
+    },
+    {
+      "option": "no",
+      "value": 10
+    },
+    {
+      "option": "other",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1431580",
+      "note": ""
+    }
+  ],
+  "extras": {}
+}

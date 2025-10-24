@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled.",
+    "date": "2025-10-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1"
+}

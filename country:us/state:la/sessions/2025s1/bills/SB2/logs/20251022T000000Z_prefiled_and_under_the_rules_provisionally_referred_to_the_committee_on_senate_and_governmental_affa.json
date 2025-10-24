@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Prefiled and under the rules provisionally referred to the Committee on Senate and Governmental Affairs.",
+    "date": "2025-10-22",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "filing",
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB2"
+}

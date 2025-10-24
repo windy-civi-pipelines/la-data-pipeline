@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Read by title.  Lies over under the rules.",
+    "date": "2025-10-24",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB5"
+}
